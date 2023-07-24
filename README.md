@@ -7,7 +7,7 @@ Django Developer
 I'm a passionate django developer.
 
 * 🌍  I'm based in Indian
-* ✉️  You can contact me at [vaishnavprabakarkoo@gmail.com](mailto:vaishnavprabakarkoo@gmail.com)
+* ✉️  You can contact me at [vaishnavprabhakarkoo@gmail.com](mailto:vaishnavprabhakarkoo@gmail.com)
 * 🧠  I'm learning Django, DRF
 
 <a href="https://www.github.com/vaishnavprabhakarkoo" target="_blank" rel="noreferrer"><img
