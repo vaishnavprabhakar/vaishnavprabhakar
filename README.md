@@ -10,8 +10,8 @@ I'm a passionate django developer.
 * ✉️  You can contact me at [vaishnavprabhakarkoo@gmail.com](mailto:vaishnavprabhakarkoo@gmail.com)
 * 🧠  I'm learning Django, DRF
 
-<a href="https://www.github.com/vaishnavprabhakarkoo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vaishnavprabhakarkoo?logo=github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
+<a href="https://www.github.com/vaishnavprabhakar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/vaishnavprabhakar?logo=github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
 
 ### Skills
 
@@ -32,11 +32,11 @@ src="https://img.shields.io/github/followers/vaishnavprabhakarkoo?logo=github&st
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vaishnavprabhakarkoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vaishnavprabhakarkoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/vaishnavprabhakarkoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/vaishnav-prabhakar-1936a1258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vaishnavprabhakar"><img src="https://github-readme-stats.vercel.app/api?username=vaishnavprabhakar&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vaishnavprabhakarkoo's GitHub stats" /></a>
+<a href="http://www.github.com/vaishnavprabhakar"><img src="https://github-readme-stats.vercel.app/api?username=vaishnavprabhakar&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vaishnavprabhakar's GitHub stats" /></a>
 
 <a href="http://www.github.com/vaishnavprabhakar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavprabhakar&stroke=000000&background=1e3a8a&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
