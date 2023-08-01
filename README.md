@@ -36,10 +36,10 @@ src="https://img.shields.io/github/followers/vaishnavprabhakarkoo?logo=github&st
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vaishnavprabhakarkoo"><img src="https://github-readme-stats.vercel.app/api?username=vaishnavprabhakarkoo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vaishnavprabhakarkoo's GitHub stats" /></a>
+<a href="http://www.github.com/vaishnavprabhakar"><img src="https://github-readme-stats.vercel.app/api?username=vaishnavprabhakar&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vaishnavprabhakarkoo's GitHub stats" /></a>
 
-<a href="http://www.github.com/vaishnavprabhakarkoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavprabhakarkoo&stroke=000000&background=1e3a8a&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/vaishnavprabhakar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavprabhakar&stroke=000000&background=1e3a8a&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/vaishnavprabhakarkoo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishnavprabhakarkoo&bg_color=1e3a8a&color=000000&line=3382ed&point=000000&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/vaishnavprabhakar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vaishnavprabhakar&bg_color=1e3a8a&color=000000&line=3382ed&point=000000&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/vaishnavprabhakarkoo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavprabhakarkoo&langs_count=10&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vaishnavprabhakar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavprabhakar&langs_count=10&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
