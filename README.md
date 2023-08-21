@@ -14,7 +14,7 @@ I'm a passionate django developer.
 
 * 🌍  I'm based in Indian
 * ✉️  You can contact me at [vaishnavprabhakarkoo@gmail.com](mailto:vaishnavprabhakarkoo@gmail.com)
-* 🧠  I'm learning Django, DRF
+* 🧠  Talks about the backend technologies
 
 <a href="https://www.github.com/vaishnavprabhakar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vaishnavprabhakar?logo=github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
