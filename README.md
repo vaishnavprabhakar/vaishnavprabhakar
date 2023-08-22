@@ -7,10 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My name is Vaishnav
 ================================================================================================================================
-Django Developer
+I'm a passionate Django Developer
 ----------------
-
-I'm a passionate django developer.
 
 * 🌍  I'm based in Indian
 * ✉️  You can contact me at [vaishnavprabhakarkoo@gmail.com](mailto:vaishnavprabhakarkoo@gmail.com)
