@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vaishnav and I'm a passionate django developer from India</h2>
+<h2 align="center">Hi 👋!</h2>
 
 ###
 
