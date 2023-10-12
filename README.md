@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
-<h3 align="center">I'm a passionate Django developer with strong focusing on the backend.</h3>
+<h3 align="center">I'm a passionate Django developer with strong focus on the backend.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavprabhakar&theme=tokyonight" alt="vaishnavprabhakar" /></a> </p>
 
