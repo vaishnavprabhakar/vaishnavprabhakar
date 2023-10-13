@@ -45,10 +45,11 @@
 
 
 <h3 align="center">Stats</h3>
-<img align="left" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavprabhakar&layout=compact&theme=cobalt" alt=vaishnavprabhakar />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavprabhakar&layout=compact&theme=cobalt" alt=vaishnavprabhakar />
 
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaishnavprabhakar&show_icons=true&locale=en&theme=" alt="vaishnavprabhakar" /></p>
-
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vaishnavprabhakar&show_icons=true&locale=en&theme=" alt="vaishnavprabhakar" /></p>
+</div>
 <div align="center"><img height="180em" width="em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavprabhakar&theme=dark" alt="vaishnavprabhakar" />
 
 <h2 align="center">⚡Activity Graph:</h2>
