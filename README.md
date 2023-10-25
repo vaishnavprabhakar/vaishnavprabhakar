@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **DRF**   
 - 💬 Ask me about **Backend Technologies**
 - 📫 How to reach me **vaishnavprabhakarkoo@gmail.com**
-- 📝 I regularly write articles on **https://dev.to/vaishnavprabhakar**
-- ⚡ Fun fact **I'm serious about my career**
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center"> 
