@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Django developer with strong focus on the backend.</h3>
 
 
-- 🌱 I’m currently learning **DRF**   
+- 🌱 I’m currently learning **Backend Technologies**   
 - 💬 Ask me about **Backend Technologies**
 - 📫 How to reach me **vaishnavprabhakarkoo@gmail.com**
 
