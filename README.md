@@ -53,7 +53,6 @@
 
 <h2 align="center">⚡Activity Graph:</h2>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavprabhakar&theme=github"/>
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=vaishnavprabhakar&theme=tokyonight" alt="vaishnavprabhakar" /></a> </p>
