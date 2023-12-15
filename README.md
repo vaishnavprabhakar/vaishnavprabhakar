@@ -55,7 +55,6 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavprabhakar&theme=github"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 
 <img src="https://github-profile-trophy.vercel.app/?username=vaishnavprabhakar&theme=tokyonight" alt="vaishnavprabhakar" /></a> </p>
 
