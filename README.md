@@ -51,7 +51,7 @@
 </div>
 <div align="center"><img height="180em" width="em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavprabhakar&theme=dark" alt="vaishnavprabhakar" />
 
-<h2 align="center">⚡Activity Graph:</h2>
+
 
 
 
