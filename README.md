@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Talentwave](https://github.com/vaishnavprabhakar/Talentwave-backends.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vaishnavprabhakar/](https://github.com/vaishnavprabhakar/)
-
 - 💬 Ask me about **#tech**
 
 - 📫 How to reach me **vaishnavprabhakarkoo@gmail.com**
