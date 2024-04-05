@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Talentwave](https://github.com/vaishnavprabhakar/Talentwave-backends.git)
 
-- 💬 Ask me about **#tech**
+- 💬 Am into **#tech**
 
 - 📫 How to reach me **vaishnavprabhakarkoo@gmail.com**
 
