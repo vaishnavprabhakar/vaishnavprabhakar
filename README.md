@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h3 align="center">A passionate Django developer from India</h3>
-
+- delving deep into data structuring and algorithms.
 - 🔭 I’m currently working on [Talentwave](https://github.com/vaishnavprabhakar/Talentwave-backends.git)
 
 - 💬 Am into **#tech**
