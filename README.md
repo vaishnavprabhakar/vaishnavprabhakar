@@ -3,8 +3,6 @@
 
 - delving deep into data structuring and algorithms.
 
-- 🔭 I’m currently working on [Talentwave](https://github.com/vaishnavprabhakar/Talentwave-backends.git)
-
 - 💬 Am into **#tech**
 
 - 📫 How to reach me **vaishnavprabhakarkoo@gmail.com**
