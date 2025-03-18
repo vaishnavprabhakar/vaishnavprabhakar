@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h3 align="center">A passionate Django developer from India</h3>
 
-- Delving deep into data structuring and algorithms.
-
 - 📫 How to reach me **vaishnavprabhakarkoo@gmail.com**
 
 <h3 style="align:center;">Connect with me:</h3>
